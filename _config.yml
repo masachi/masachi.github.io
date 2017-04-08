@@ -176,10 +176,10 @@ keybase-in-footer: false
 # Sections shown in the index page
 
 pages_list:
-  About: '关于'
-  Blog: '博客'
+  About: 'about'
+  Blog: 'latest-post'
   # Timeline: 'timeline'
-  Contact: '联系我'
+  Contact: 'contact'
 
 # Exclusion list from the generated _site
 
