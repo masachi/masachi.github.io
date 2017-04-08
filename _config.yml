@@ -57,6 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "这个辣鸡blog里面什么都没有"
   - text: "2333333333333333333333"
+  - text: "wolow，向dalao们低头"
 
 me-img: "/img/jetpacktocat.png"
 
