@@ -178,9 +178,8 @@ keybase-in-footer: false
 
 pages_list:
   关于: 'about'
-  全部博客: 'blog'
   最新博客: 'latest-post'
-  # Timeline: 'timeline'
+  时间线: 'timeline'
   联系我: 'contact'
 
 # Exclusion list from the generated _site
