@@ -16,7 +16,7 @@ url: "https://masachi.github.io"
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-97018813-1"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -102,7 +102,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "masachi"
 
 syntax-highlight: True
 
@@ -152,8 +152,8 @@ social:
     url: "https://twitter.com/MasachiZhang"
   - title: "github"
     url: "https://github.com/masachi"
-  - title: "rss"
-    url: "/feed.xml"
+  - title: "wechat"
+    url: 
 
 ############
 # 404 page #
