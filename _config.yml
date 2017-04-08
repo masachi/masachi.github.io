@@ -199,3 +199,4 @@ gems:
   - jekyll-paginate
   - jemoji
   - jekyll-admin
+  - jekyll-polyglot
