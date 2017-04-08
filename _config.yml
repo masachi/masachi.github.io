@@ -200,3 +200,4 @@ gems:
   - jemoji
   - jekyll-admin
   - jekyll-polyglot
+  - jekyll-feed
