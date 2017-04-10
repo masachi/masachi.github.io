@@ -1,9 +1,12 @@
 ---
+title: Modifying the Header
+date: 2015-06-24 00:00:00 Z
+categories:
+- tech
+tags:
+- tutorial
 layout: post
 section-type: post
-title: Modifying the Header
-category: tech
-tags: [ 'tutorial' ]
 ---
 
 The intro part of the index page (Header) is consisted of four elements:

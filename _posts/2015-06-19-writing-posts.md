@@ -1,9 +1,12 @@
 ---
+title: Writing posts
+date: 2015-06-19 00:00:00 Z
+categories:
+- tech
+tags:
+- tutorial
 layout: post
 section-type: post
-title: Writing posts
-category: tech
-tags: [ 'tutorial' ]
 ---
 
 ### Creating a new post

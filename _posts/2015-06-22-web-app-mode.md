@@ -1,10 +1,14 @@
 ---
+title: Web app mode
+date: 2015-06-22 00:00:00 Z
+categories:
+- tech
+tags:
+- tutorial
 layout: post
 section-type: post
-title: Web app mode
-category: tech
-tags: [ 'tutorial']
 ---
+
 You can make your website behave like a native web app in iOS and Android devices
 by providing links for the icons for each resolution:
 

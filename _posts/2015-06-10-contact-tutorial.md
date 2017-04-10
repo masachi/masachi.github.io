@@ -1,9 +1,12 @@
 ---
+title: Modifying the Contact
+date: 2015-06-10 00:00:00 Z
+categories:
+- tech
+tags:
+- tutorial
 layout: post
 section-type: post
-title: Modifying the Contact
-category: tech
-tags: [ 'tutorial' ]
 ---
 
 The contact part of the index page is consisted of two elements:

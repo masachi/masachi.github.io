@@ -1,9 +1,12 @@
 ---
+title: Setting up the Blog
+date: 2015-06-20 00:00:00 Z
+categories:
+- tech
+tags:
+- tutorial
 layout: post
 section-type: post
-title: Setting up the Blog
-category: tech
-tags: [ 'tutorial' ]
 ---
 
 A website is truly personal if it hosts your blog as well, this place of the internet

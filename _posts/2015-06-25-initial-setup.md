@@ -1,9 +1,12 @@
 ---
+title: Initial setup
+date: 2015-06-25 00:00:00 Z
+categories:
+- tech
+tags:
+- tutorial
 layout: post
 section-type: post
-title: Initial setup
-category: tech
-tags: [ 'tutorial' ]
 ---
 
 All features of { Personal } are controlled by setting values to variables that are defined in the
