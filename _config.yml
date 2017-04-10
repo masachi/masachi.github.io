@@ -1,6 +1,6 @@
 ---
 title: マサチ
-timezone: UTC
+timezone: Asia/Shanghai
 collections:
   posts:
     title: Posts
@@ -27,7 +27,7 @@ start-delay: 200
 delete-delay: 5000
 lines:
 - text: 这个辣鸡blog里面什么都没有
-- text: '2333333333333333333333'
+- text: 2.3333333333333332e+21
 - text: wolow，向dalao们低头
 me-img: "/img/jetpacktocat.png"
 color-browser: "#000000"
@@ -56,7 +56,7 @@ disqus-shortname: masachi
 syntax-highlight: true
 timeline-img: "/img/timeline/default.png"
 email: zhangjb42@gmail.com
-author_blurb: ''
+author_blurb: 
 author_blurb_image: "/img/author.png"
 social:
 - title: weibo
