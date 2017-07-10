@@ -26,9 +26,7 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines:
-- text: 这个辣鸡blog里面什么都没有
-- text: 2.3333333333333332e+21
-- text: wolow，向dalao们低头
+- text: This is a blog but rubbish.
 me-img: "/img/jetpacktocat.png"
 color-browser: "#000000"
 apple-status-bar-style: black
